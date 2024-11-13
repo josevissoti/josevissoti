@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi there, I'm José Pedro Vissoti
 
-<!--
-**josevissoti/josevissoti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I'm a 19 years old Engineer Software
 
-Here are some ideas to get you started:
+<div align = "center">
+  <img height="160em" src = "https://github-readme-stats.vercel.app/api?username=josevissoti&show_icons=true&theme=github_dark">
+    <img height="160em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=josevissoti&layout=compact&theme=github_dark">
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact me
+<a href = "https://www.linkedin.com/in/josé-pedro-vissoti-a189b4266/" target="_blank">
+  <img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
