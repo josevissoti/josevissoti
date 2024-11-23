@@ -2,7 +2,7 @@
 
 ## About me
 <p>I'm a 19 years old Brazilian Software Engineer student</p>
-<p>I'm currently a Information Systems student</p>
+<p>I'm currently a Bachelor's degree in Information Systems</p>
 <p>Looking for my first job opportunity</p>
 
 ## Skills
