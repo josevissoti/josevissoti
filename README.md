@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm José Pedro Vissoti</h1>
 
 ## About me
-<p>I'm a 19 years old Brazilian Software Engineer student</p>
+<p>I'm a 20 years old Brazilian Software Engineer student</p>
 <p>I'm currently a Bachelor's degree in Information Systems</p>
 <p>Looking for my first job opportunity</p>
 
